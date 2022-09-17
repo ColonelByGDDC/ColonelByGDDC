@@ -1,12 +1,14 @@
 # Hi 👋,  welcome to the Colonel By GDDC Github!
 
 **Here, you will find demo projects and code snippets created by the club.** 
-<br>
+
 **🌱 Club Info:**
 <br>
 Meeting Days: Every schedule day 4 (unless specified otherwise)
 <br>
 Meeting Room: TBD
+
+📫 For more information, visit: **website link**
 
 
 <!--
