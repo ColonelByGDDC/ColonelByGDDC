@@ -8,7 +8,7 @@ Meeting Days: Every schedule day 4 (unless specified otherwise)
 <br>
 Meeting Room: TBD
 
-📫 For more information, visit <a href="https://cbgddc.com/" target="_blank">Go to application</a> 
+📫 For more information, visit <a href="https://cbgddc.com/" target="_blank">our website</a> 
 
 
 <!--
