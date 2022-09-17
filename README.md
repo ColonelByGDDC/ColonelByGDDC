@@ -1,6 +1,6 @@
 # Hi 👋,  welcome to the Colonel By GDDC Github!
 
-## Here, you will find demo projects and code snippets created by the club. 
+***Here, you will find demo projects and code snippets created by the club.*** 
 
 Club Info:
 Meeting Days: Every schedule day 4 (unless specified otherwise)
