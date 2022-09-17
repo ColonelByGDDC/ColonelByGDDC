@@ -3,8 +3,8 @@
 <h3> Here, you will find demo projects and code snippets created by the club. </h3>
 
 <h4> Club Info: </h4>
-Meeting Days: Every schedule day 4 (unless specified otherwise)
-Meeting Room: TBD
+<h5>Meeting Days: Every schedule day 4 (unless specified otherwise)</h5>
+<h5>Meeting Room: TBD<h5>
 
 
 <!--
