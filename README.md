@@ -2,6 +2,9 @@
 
 <h3> Here, you will find demo projects and code snippets created by the club. </h3>
 
+<h3> Club Info: </h4>
+
+
 <!--
 **ColonelByGDDC/ColonelByGDDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
