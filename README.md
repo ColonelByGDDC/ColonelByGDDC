@@ -1,7 +1,7 @@
-<h1> Hi 👋, welcome to the Colonel By GDDC Github! </h1>
+<h1> Hi 👋,  welcome to the Colonel By GDDC Github! </h1>
 
-Here, you will find demo projects and code snippets created by the club.
-- 📫 Questions? : ...
+<h6> Here, you will find demo projects and code snippets created by the club. </h6>
+
 <!--
 **ColonelByGDDC/ColonelByGDDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
