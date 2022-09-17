@@ -2,7 +2,7 @@
 
 **Here, you will find demo projects and code snippets created by the club.** 
 
-Club Info:
+**Club Info:**
 Meeting Days: Every schedule day 4 (unless specified otherwise)
 Meeting Room: TBD
 
