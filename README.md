@@ -4,9 +4,9 @@
 
 **🌱 Club Info:**
 <br>
-Meeting Days: Every schedule day 4 (unless specified otherwise)
+Meeting Days: Every schedule day 3 (unless specified otherwise)
 <br>
-Meeting Room: TBD
+Meeting Room: 231
 
 📫 For more information, visit <a href="https://cbgddc.com/" target="_blank">our website</a> 
 
